@@ -1,0 +1,18 @@
+[project]
+name = "Dicordbot_qloha"
+version = "1.0.0"
+authors = [
+  { name="qloha", email="sirfigaloha@gmail.com" },
+]
+description = "A python module to help you with creating discord user bots."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU GENERAL PUBLIC LICENSE License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/qloha/discordbot"
+Issues = "https://github.com/qloha/discordbot/issues"

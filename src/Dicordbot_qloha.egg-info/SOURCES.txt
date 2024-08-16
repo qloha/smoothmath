@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/Dicordbot_qloha.egg-info/PKG-INFO
+src/Dicordbot_qloha.egg-info/SOURCES.txt
+src/Dicordbot_qloha.egg-info/dependency_links.txt
+src/Dicordbot_qloha.egg-info/top_level.txt
+src/Discordbot_qloha/__init__.py
+src/Discordbot_qloha/check-message.py
+src/Discordbot_qloha/send-message.py

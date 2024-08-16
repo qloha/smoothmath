@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Dicordbot_qloha
+Version: 1.0.0
+Summary: A python module to help you with creating discord user bots.
+Author-email: qloha <sirfigaloha@gmail.com>
+Project-URL: Homepage, https://github.com/qloha/discordbot
+Project-URL: Issues, https://github.com/qloha/discordbot/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU GENERAL PUBLIC LICENSE License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# discordbot
+Discordbot package for python
