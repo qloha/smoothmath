@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: easymath
+Version: 1.0.0
+Summary: A python package that makes math... easy!
+Author-email: qloha <sirfigaloha@gmail.com>
+Project-URL: Homepage, https://github.com/qloha/easymath
+Project-URL: Issues, https://github.com/qloha/easymath/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# EasyMath
+
+The easiest math package!
+
+## How to install:
+
+To install this package, run ```pip install easymath```
+
+## Tutorial
+
+Some things that this package includes is the add & subtract function. Here's an example of the add:
