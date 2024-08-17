@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/smoothmath/__init__.py
+src/smoothmath/add.py
+src/smoothmath/subtract.py
+src/smoothmath.egg-info/PKG-INFO
+src/smoothmath.egg-info/SOURCES.txt
+src/smoothmath.egg-info/dependency_links.txt
+src/smoothmath.egg-info/top_level.txt

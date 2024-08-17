@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: smoothmath
+Version: 1.0.0
+Summary: A python package that makes math... smooth!
+Author-email: qloha <sirfigaloha@gmail.com>
+Project-URL: Homepage, https://github.com/qloha/smoothmath
+Project-URL: Issues, https://github.com/qloha/smoothmath/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# SmoothMath
+
+The smoothest math package!
+
+## How to install:
+
+To install this package, run ```pip install smoothmath```
+
+## Tutorial
+
+Some things that this package includes is the add & subtract function. Here's an example of the add:
+
+```
+import smoothmath as sm
+
+sm.add(4, 1) #result is 5
+```
+
+And to subtract, it's as easy as
+
+```
+import smoothmath as sm
+
+sm.subtract(4, 1) #result is 3
+```
+
+### For the full documentation, please visit https://qloha.github.io/smoothmath
