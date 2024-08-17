@@ -13,7 +13,7 @@ Some things that this package includes is the add & subtract function. Here's an
 ```
 import smoothmath as sm
 
-sm.add(4, 1) #result is 5
+print(sm.add(4, 2)) #result is 6
 ```
 
 And to subtract, it's as easy as
@@ -21,7 +21,7 @@ And to subtract, it's as easy as
 ```
 import smoothmath as sm
 
-sm.subtract(4, 1) #result is 3
+print(sm.subtract(4, 2)) #result is 2
 ```
 
 ### For the full documentation, please visit https://qloha.github.io/smoothmath
