@@ -1,10 +1,10 @@
 [project]
-name = "easymath"
-version = "1.0.0"
+name = "puremath"
+version = "B1.0.0"
 authors = [
   { name="qloha", email="sirfigaloha@gmail.com" },
 ]
-description = "A python package that makes math... easy!"
+description = "A python package that makes math easy!"
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
@@ -14,5 +14,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/qloha/easymath"
-Issues = "https://github.com/qloha/easymath/issues"
+Homepage = "https://github.com/qloha/puremath"
+Issues = "https://github.com/qloha/puremath/issues"
