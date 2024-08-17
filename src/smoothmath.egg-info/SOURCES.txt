@@ -2,6 +2,7 @@ LICENSE
 README.md
 pyproject.toml
 src/smoothmath/__init__.py
+src/smoothmath/evaluate.py
 src/smoothmath/simplemath.py
 src/smoothmath.egg-info/PKG-INFO
 src/smoothmath.egg-info/SOURCES.txt
