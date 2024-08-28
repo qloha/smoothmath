@@ -6,7 +6,7 @@ The smoothest math package!
 
 To install this package, run ```pip install smoothmath```
 
-## Tutorial
+## Example
 
 Some things that this package includes is the add & subtract function. Here's an example of the add:
 
