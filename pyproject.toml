@@ -2,7 +2,7 @@
 name = "smoothmath"
 version = "1.0.5"
 authors = [
-  { name="qloha", email="sirfigaloha@gmail.com" },
+  { name="qloha", email="officialqloha@gmail.com" },
 ]
 description = "A python package that makes math... smooth!"
 readme = "README.md"
